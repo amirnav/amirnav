@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Amir Hossein Navazi</h1>
 <h3 align="center">A passionate Backend developer from Iran</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://maxmautner.com/public/images/django.gif">
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHIzZDFzYnVoYXpnZnBsOGU2YzB5MDM3ZWs4OWt5YjNjcDhyMXZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUL5gdlvDgtRbOElZS/giphy.gif">
-<hr>
+<img align="right" alt="Coding" width="200" src="https://maxmautner.com/public/images/django.gif">
+<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHIzZDFzYnVoYXpnZnBsOGU2YzB5MDM3ZWs4OWt5YjNjcDhyMXZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUL5gdlvDgtRbOElZS/giphy.gif">
+
 - 🔭 I’m currently working on **Genetic Algorythm project**
 
 - 🌱 I’m currently learning **React**
