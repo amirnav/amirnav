@@ -4,6 +4,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://maxmautner.com/public/images/django.gif">
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHIzZDFzYnVoYXpnZnBsOGU2YzB5MDM3ZWs4OWt5YjNjcDhyMXZwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hUL5gdlvDgtRbOElZS/giphy.gif">
+<br>
 - 🔭 I’m currently working on **Genetic Algorythm project**
 
 - 🌱 I’m currently learning **React**
