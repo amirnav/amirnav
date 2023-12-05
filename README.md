@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)]
+![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Amir Hossein Navazi</h1>
 <h3 align="center">A passionate Backend developer from Iran</h3>
 <img align="right" alt="Coding" width="200" src="https://maxmautner.com/public/images/django.gif">
